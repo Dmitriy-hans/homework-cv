@@ -1,0 +1,35 @@
+@import url(reset.css);
+
+body {
+    margin: 20px;
+    margin-bottom: 20px;
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-size: 25px;
+    margin: 20px;
+    color: cornflowerblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+div>h2 {
+    font-size: 25px;
+    margin: 25px;
+    color: royalblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div,
+p {
+    margin: 10px 5px;
+    font-size: 20px;
+    color: slategrey;
+}
+
+img {
+    width: 175px;
+    border-radius: 10px;
+    margin: 15px;
+}
